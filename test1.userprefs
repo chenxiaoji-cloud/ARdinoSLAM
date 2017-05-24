@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Wikitude_Unity_2-1-0_2-1-0_2017_03_27_21_02_32/Reference/Unity API/search/search.js">
+    <Files>
+      <File FileName="Assets/Wikitude_Unity_2-1-0_2-1-0_2017_03_27_21_02_32/Reference/Cloud Recognition REST API/locales/locale.js" Line="30" Column="1" />
+      <File FileName="Assets/Wikitude_Unity_2-1-0_2-1-0_2017_03_27_21_02_32/Reference/Unity API/search/search.js" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
